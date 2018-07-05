@@ -18,8 +18,6 @@ http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/322122
 http://139.59.81.43:8000//live/24684/84981981/219.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Entertainment",Colors HD
 http://izgemma.ddns.net:8000/live/office/test/11290.ts
-#EXTINF:0, group-title="Entertainment",Star Bharat HD
-http://139.59.81.43:8000//live/24684/84981981/1436.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Entertainment",AXN HD
 http://139.59.81.43:8000//live/24684/84981981/139.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Entertainment",DW
@@ -74,16 +72,6 @@ http://139.59.81.43:8000//live/24684/84981981/1452.ts|User-Agent=HD-STM/3.0
 
 #EXTINF:0, group-title="News",Times Now HD
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-#EXTINF:0, group-title="News",Aaj Tak
-http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-#EXTINF:0, group-title="News",ABP Majha
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226020/01.m3u8
-#EXTINF:0, group-title="News",Zee 24 Taas
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225926/01.m3u8
-#EXTINF:0, group-title="News",ABP News
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
-#EXTINF:0, group-title="News",Zee News
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225922/01.m3u8
 #EXTINF:-0, group-title="News",EURONEWS HD
 http://109.236.92.197:9090/live/yRSXRyESou/iJGY7CXEkE/821.ts
 #EXTINF:0, group-title="News",Al Jazeera
@@ -111,8 +99,18 @@ http://139.59.81.43:8000//live/24684/84981981/246.ts|User-Agent=HD-STM/3.0
 http://139.59.81.43:8000//live/24684/84981981/249.ts|User-Agent=HD-STM/3.0
 #EXTINF:-0, group-title="News",FOX News
 http://izgemma.ddns.net:8000/live/office/test/614.ts
+#EXTINF:0, group-title="News",Aaj Tak
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:0, group-title="News",ABP News
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+#EXTINF:0, group-title="News",Zee News
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225922/01.m3u8
 #EXTINF:-0, group-title="News",ARY News 
 http://izgemma.ddns.net:8000/live/office/test/6303.ts
+#EXTINF:0, group-title="News",ABP Majha
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226020/01.m3u8
+#EXTINF:0, group-title="News",Zee 24 Taas
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225926/01.m3u8
 
 
 #EXTINF:0, group-title="Sports",D Sport
@@ -135,7 +133,7 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/1.m3u8
 #EXTINF:0, group-title="Sports",Dsports HD
 http://139.59.81.43:8000//live/24684/84981981/445.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="Sports",Star Sports 1 Hindi HD
+#EXTINF:0, group-title="Sports",Star Sports 1 HD
 http://izgemma.ddns.net:8000/live/office/test/612.ts
 #EXTINF:0, group-title="Sports",Star Sports 2 HD
 http://izgemma.ddns.net:8000/live/office/test/611.ts
@@ -145,8 +143,6 @@ http://139.59.81.43:8000//live/24684/84981981/1466.ts|User-Agent=HD-STM/3.0
 http://139.59.81.43:8000//live/24684/84981981/1470.ts|User-Agent=HD-STM/3.0
 #EXTINF:-0, group-title="Sports",NBA TV
 http://109.236.92.197:9090/live/yRSXRyESou/iJGY7CXEkE/1025.ts
-#EXTINF:-0, group-title="Sports",ESPN 1 HD
-http://izgemma.ddns.net:8000/live/office/test/37330.ts
 #EXTINF:-0, group-title="Sports",Sky Sports Main Event HD
 http://izgemma.ddns.net:8000/live/office/test/6672.ts
 #EXTINF:-0, group-title="Sports",Sky Sports Premier League HD
@@ -165,7 +161,7 @@ http://izgemma.ddns.net:8000/live/office/test/1389.ts
 http://izgemma.ddns.net:8000/live/office/test/6667.ts
 #EXTINF:-0, group-title="Sports",BT Sport 3 HD
 http://izgemma.ddns.net:8000/live/office/test/6671.ts
-#EXTINF:-0, group-title="Sports",BT Sport ESPN
+#EXTINF:-0, group-title="Sports",BT Sport ESPN HD
 http://izgemma.ddns.net:8000/live/office/test/129.ts
 #EXTINF:-0, group-title="Sports",Eurosport 1 HD
 http://izgemma.ddns.net:8000/live/office/test/799.ts
@@ -179,8 +175,6 @@ http://izgemma.ddns.net:8000/live/office/test/37301.ts
 
 #EXTINF:0, group-title="Music",Desi Beats HD
 http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
-#EXTINF:0, group-title="Music",Sangeet Marathi
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226222/1.m3u8
 #EXTINF:0, group-title="Music",Sony Rox HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226204/01.m3u8
 #EXTINF:0, group-title="Music",MTV Beats HD
@@ -193,6 +187,8 @@ http://izgemma.ddns.net:8000/live/office/test/37427.ts
 http://izgemma.ddns.net:8000/live/office/test/37152.ts
 #EXTINF:-0, group-title="Music",Virgin Radio TV
 http://izgemma.ddns.net:8000/live/office/test/1158.ts
+#EXTINF:0, group-title="Music",Sangeet Marathi
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226222/1.m3u8
 
 
 #EXTINF:0, group-title="Movies",HBO HD
