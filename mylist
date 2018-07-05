@@ -13,23 +13,23 @@ http://izgemma.ddns.net:8000/live/office/test/31969.ts
 #EXTINF:0, group-title="Entertainment",Sony Sab HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226078/01.m3u8
 #EXTINF:0, group-title="Entertainment",Sony TV HD
-http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/02.m3u8
+http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/313.ts
 #EXTINF:0, group-title="Entertainment",Channel V HD
 http://139.59.81.43:8000//live/24684/84981981/219.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Entertainment",Colors HD
 http://izgemma.ddns.net:8000/live/office/test/11290.ts
 #EXTINF:0, group-title="Entertainment",AXN HD
 http://139.59.81.43:8000//live/24684/84981981/139.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Entertainment",STAR WORLD HD
+http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/7699.ts
+#EXTINF:0, group-title="Entertainment",STAR WORLD PREMIER HD
+http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/7700.ts
 #EXTINF:0, group-title="Entertainment",DW
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-0, group-title="Entertainment",Syfy HD
 http://izgemma.ddns.net:8000/live/office/test/8150.ts
 #EXTINF:-0, group-title="Entertainment",FOX HD
 http://izgemma.ddns.net:8000/live/office/test/19632.ts
-#EXTINF:-0, group-title="Entertainment",FOXLife 
-http://87.116.151.5:8080/live/encoded/stream/98.ts
-#EXTINF:-0, group-title="Entertainment",FOXCrime 
-http://87.116.151.5:8080/live/encoded/stream/99.ts
 #EXTINF:-0, group-title="Entertainment",BBC One HD
 http://izgemma.ddns.net:8000/live/office/test/13688.ts
 #EXTINF:-0, group-title="Entertainment",BBC Two HD
@@ -67,7 +67,7 @@ http://139.59.81.43:8000//live/24684/84981981/272.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Entertainment",Zee Marathi HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226278/01.m3u8
 #EXTINF:0, group-title="Entertainment",Star Pravah HD
-http://139.59.81.43:8000//live/24684/84981981/1452.ts|User-Agent=HD-STM/3.0
+http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/7697.ts
 
 
 #EXTINF:0, group-title="News",Times Now HD
@@ -128,7 +128,7 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 #EXTINF:0, group-title="Sports",Ten 1 HD
 http://izgemma.ddns.net:8000/live/office/test/274.ts
 #EXTINF:0, group-title="Sports",Ten 2 HD
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/01.m3u8
+http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/309.ts
 #EXTINF:0, group-title="Sports",Ten 3 HD
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/1.m3u8
 #EXTINF:0, group-title="Sports",Dsports HD
