@@ -24,6 +24,10 @@ http://139.59.81.43:8000//live/24684/84981981/139.ts|User-Agent=HD-STM/3.0
 http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/7699.ts
 #EXTINF:0, group-title="Entertainment",STAR WORLD PREMIER HD
 http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/7700.ts
+#EXTINF:-0, group-title="Entertainment",A&E HD
+
+#EXTINF:-0, group-title="Entertainment",AMC HD
+
 #EXTINF:0, group-title="Entertainment",DW
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-0, group-title="Entertainment",Syfy HD
@@ -77,7 +81,7 @@ http://109.236.92.197:9090/live/yRSXRyESou/iJGY7CXEkE/821.ts
 #EXTINF:0, group-title="News",Al Jazeera
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 #EXTINF:0, group-title="News",BBC World News
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226051/01.m3u8
+http://izgemma.ddns.net:8000/live/chief/chief/11327.ts
 #EXTINF:0, group-title="News",Bloomberg
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226082/index.m3u8
 http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3.m3u8
@@ -124,7 +128,7 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:0, group-title="Sports",Sony ESPN HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/01.m3u8
 #EXTINF:0, group-title="Sports",Sony Six HD
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225780/01.m3u8
+http://izgemma.ddns.net:8000/live/office/test/277.ts
 #EXTINF:0, group-title="Sports",Ten 1 HD
 http://izgemma.ddns.net:8000/live/office/test/274.ts
 #EXTINF:0, group-title="Sports",Ten 2 HD
@@ -141,35 +145,35 @@ http://izgemma.ddns.net:8000/live/office/test/611.ts
 http://139.59.81.43:8000//live/24684/84981981/1466.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Sports",Star Sports Select 2 HD
 http://139.59.81.43:8000//live/24684/84981981/1470.ts|User-Agent=HD-STM/3.0
-#EXTINF:-0, group-title="Sports",NBA TV
+#EXTINF:0, group-title="Sports",NBA TV
 http://109.236.92.197:9090/live/yRSXRyESou/iJGY7CXEkE/1025.ts
-#EXTINF:-0, group-title="Sports",Sky Sports Main Event HD
+#EXTINF:0, group-title="Sports",Sky Sports Main Event HD
 http://izgemma.ddns.net:8000/live/office/test/6672.ts
-#EXTINF:-0, group-title="Sports",Sky Sports Premier League HD
+#EXTINF:0, group-title="Sports",Sky Sports Premier League HD
 http://izgemma.ddns.net:8000/live/office/test/12450.ts
-#EXTINF:-0, group-title="Sports",Sky Sports Cricket HD
+#EXTINF:0, group-title="Sports",Sky Sports Cricket HD
 http://izgemma.ddns.net:8000/live/office/test/1122.ts
-#EXTINF:-0, group-title="Sports",Sky Sports Mix HD
+#EXTINF:0, group-title="Sports",Sky Sports Mix HD
 http://izgemma.ddns.net:8000/live/office/test/6461.ts
-#EXTINF:-0, group-title="Sports",Sky Sports Main Event HD
+#EXTINF:0, group-title="Sports",Sky Sports Main Event HD
 http://izgemma.ddns.net:8000/live/office/test/36512.ts
-#EXTINF:-0, group-title="Sports",Sky Sports Football HD
+#EXTINF:0, group-title="Sports",Sky Sports Football HD
 http://izgemma.ddns.net:8000/live/office/test/12451.ts
-#EXTINF:-0, group-title="Sports",BT Sport 1 HD
+#EXTINF:0, group-title="Sports",BT Sport 1 HD
 http://izgemma.ddns.net:8000/live/office/test/1389.ts
-#EXTINF:-0, group-title="Sports",BT Sport 2 HD
+#EXTINF:0, group-title="Sports",BT Sport 2 HD
 http://izgemma.ddns.net:8000/live/office/test/6667.ts
-#EXTINF:-0, group-title="Sports",BT Sport 3 HD
+#EXTINF:0, group-title="Sports",BT Sport 3 HD
 http://izgemma.ddns.net:8000/live/office/test/6671.ts
-#EXTINF:-0, group-title="Sports",BT Sport ESPN HD
+#EXTINF:0, group-title="Sports",BT Sport ESPN HD
 http://izgemma.ddns.net:8000/live/office/test/129.ts
-#EXTINF:-0, group-title="Sports",Eurosport 1 HD
+#EXTINF:0, group-title="Sports",Eurosport 1 HD
 http://izgemma.ddns.net:8000/live/office/test/799.ts
-#EXTINF:-0, group-title="Sports",Eurosport 2 HD
+#EXTINF:0, group-title="Sports",Eurosport 2 HD
 http://izgemma.ddns.net:8000/live/office/test/798.ts
-#EXTINF:-0, group-title="Sports",Sony Max HD
+#EXTINF:0, group-title="Sports",Sony Max HD
 http://izgemma.ddns.net:8000/live/office/test/11907.ts
-#EXTINF:-0, group-title="Sports",PTV Sports
+#EXTINF:0, group-title="Sports",PTV Sports
 http://izgemma.ddns.net:8000/live/office/test/37301.ts
 
 
@@ -193,6 +197,10 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 
 #EXTINF:0, group-title="Movies",HBO HD
 http://139.59.81.43:8000//live/24684/84981981/603.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Movies",HBO 2
+http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/1033.ts
+#EXTINF:0, group-title="Movies",HBO Zone
+http://103.253.27.151:8888/live/dee/dee/406.ts
 #EXTINF:0, group-title="Movies",MN+ HD
 http://139.59.81.43:8000//live/24684/84981981/958.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Movies",Movies Now HD
@@ -217,6 +225,10 @@ http://izgemma.ddns.net:8000/live/office/test/11378.ts
 http://izgemma.ddns.net:8000/live/office/test/32784.ts
 #EXTINF:-0, group-title="Movies",True Movies 1 HD
 http://izgemma.ddns.net:8000/live/office/test/25.ts
+#EXTINF:-0, group-title="Movies",CBS ACTION
+http://izgemma.ddns.net:8000/live/office/test/9225.ts
+#EXTINF:-0, group-title="Movies",CBS DRAMA
+http://izgemma.ddns.net:8000/live/office/test/113.ts
 #EXTINF:0, group-title="Movies",Sony Max HD
 http://125.17.129.13/wh7f454c46tw1426839479_1338613003/PLTV/88888888/224/3221225776/01.m3u8|User-Agent=ExoPlayerDemo
 #EXTINF:0, group-title="Movies",Zee Cinema HD
@@ -235,6 +247,10 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226205/01.m3u8
 #EXTINF:-0, group-title="GK",Discovery Channel HD
 http://izgemma.ddns.net:8000/live/office/test/608.ts
+#EXTINF:0, group-title="GK",Discovery Science
+http://izgemma.ddns.net:8000/live/pedro/pedro/9884.ts
+#EXTINF:-0, group-title="GK",Discovery History
+http://izgemma.ddns.net:8000/live/office/test/106.ts
 #EXTINF:-0, group-title="GK",National Geographic HD
 http://izgemma.ddns.net:8000/live/office/test/9885.ts
 #EXTINF:0, group-title="GK",Natinal Geo Wild HD
@@ -246,13 +262,11 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 #EXTINF:0, group-title="GK",TLC HD World
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/01.m3u8
 #EXTINF:0, group-title="GK",Animal Planet HD
-http://izgemma.ddns.net:8000/live/office/test/9882.ts
+http://listaccess.me:8080/live/rebecca/rebecca123/7151.ts
 #EXTINF:0, group-title="GK",History HD
 http://139.59.81.43:8000//live/24684/84981981/625.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="GK",Travel XP HD
 http://139.59.81.43:8000//live/24684/84981981/1703.ts|User-Agent=HD-STM/3.0
-#EXTINF:-0, group-title="GK",Discovery History
-http://izgemma.ddns.net:8000/live/office/test/106.ts
 #EXTINF:-0, group-title="GK",Insight HD
 http://izgemma.ddns.net:8000/live/office/test/37161.ts
 #EXTINF:-0, group-title="GK",Eden HD
