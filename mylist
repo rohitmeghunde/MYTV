@@ -134,7 +134,7 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:0, group-title="Sports",Sony ESPN HD
 http://51.15.199.82:25461/live/euroiptv/euroiptv/1650.ts
 #EXTINF:0, group-title="Sports",Sony Six HD
-http://izgemma.ddns.net:8000/live/office/test/277.ts
+http://izgemma.ddns.net:8000/live/pedro/pedro/277.ts
 #EXTINF:0, group-title="Sports",Ten 1 HD
 http://103.253.27.151:8888/live/dee/dee/619.ts
 #EXTINF:0, group-title="Sports",Ten 2 HD
@@ -146,11 +146,11 @@ http://139.59.81.43:8000//live/24684/84981981/445.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="Sports",Star Sports 1 HD
 http://51.15.199.82:25461/live/euroiptv/euroiptv/408.ts
 #EXTINF:0, group-title="Sports",Star Sports 2 HD
-http://51.15.199.82:25461/live/euroiptv/euroiptv/407.ts
+http://95.154.194.84:8000/live/waseem1/waseem1/6473.ts
 #EXTINF:0, group-title="Sports",Star Sports Select 1 HD
 http://51.15.199.82:25461/live/euroiptv/euroiptv/408.ts
 #EXTINF:0, group-title="Sports",Star Sports Select 2 HD
-http://51.15.199.82:25461/live/euroiptv/euroiptv/407.ts
+http://95.154.194.84:8000/live/waseem1/waseem1/14122.ts
 #EXTINF:0, group-title="Sports",NBA TV
 http://109.236.92.197:9090/live/yRSXRyESou/iJGY7CXEkE/1025.ts
 #EXTINF:0, group-title="Sports",Sky Sports Main Event HD
@@ -162,9 +162,9 @@ http://51.15.199.82:25461/live/euroiptv/euroiptv/1655.ts
 #EXTINF:0, group-title="Sports",Sky Sports Cricket HD
 http://izgemma.ddns.net:8000/live/office/test/1122.ts
 #EXTINF:0, group-title="Sports",Sky Sports Mix HD
-http://izgemma.ddns.net:8000/live/office/test/6461.ts
+http://54.37.255.204:9977/live/Rodriguez/Rodriguez/27086.ts
 #EXTINF:0, group-title="Sports",Sky Sports Main Event HD
-http://izgemma.ddns.net:8000/live/office/test/36512.ts
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/818.ts
 #EXTINF:0, group-title="Sports",Sky Sports Football HD
 http://izgemma.ddns.net:8000/live/office/test/12451.ts
 #EXTINF:0, group-title="Sports",BT Sport 1 HD
@@ -194,7 +194,7 @@ http://izgemma.ddns.net:8000/live/office/test/37301.ts
 #EXTINF:0, group-title="Music",Desi Beats HD
 http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
 #EXTINF:0, group-title="Music",Sony Rox HD
-http://103.253.27.151:8888/live/dee/dee/418.ts
+http://izgemma.ddns.net:8000/live/pedro/pedro/307.ts
 #EXTINF:0, group-title="Music",MTV Beats HD
 http://139.59.81.43:8000//live/24684/84981981/980.ts|User-Agent=HD-STM/3.0
 #EXTINF:-0, group-title="Music",MTV BASE HD
