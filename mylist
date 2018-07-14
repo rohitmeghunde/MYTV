@@ -153,21 +153,31 @@ http://51.15.199.82:25461/live/euroiptv/euroiptv/408.ts
 http://95.154.194.84:8000/live/waseem1/waseem1/14122.ts
 #EXTINF:0, group-title="Sports",NBA TV
 http://109.236.92.197:9090/live/yRSXRyESou/iJGY7CXEkE/1025.ts
-#EXTINF:0, group-title="Sports",Sky Sports Main Event HD
-http://izgemma.ddns.net:8000/live/office/test/6672.ts
-#EXTINF:0, group-title="Sports",Sky Sports Premier League HD
+#EXTINF:0, group-title="Sports",Sky Sports Main Event 
+http://izgemma.ddns.net:8000/live/carl/carl/36512.ts
+#EXTINF:0, group-title="Sports",Sky Sports Premier League 
 http://izgemma.ddns.net:8000/live/office/test/12450.ts
-#EXTINF:0, group-title="Sports",Sky Sports Action HD
-http://51.15.199.82:25461/live/euroiptv/euroiptv/1655.ts
-#EXTINF:0, group-title="Sports",Sky Sports Cricket HD
-http://izgemma.ddns.net:8000/live/carl/carl/32881.ts |
-http://izgemma.ddns.net:8000/live/pedro/pedro/32881.ts
-#EXTINF:0, group-title="Sports",Sky Sports Mix HD
-http://izgemma.ddns.net:8000/live/pedro/pedro/6669.ts
-#EXTINF:0, group-title="Sports",Sky Sports Main Event HD
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/818.ts
-#EXTINF:0, group-title="Sports",Sky Sports Football HD
-http://izgemma.ddns.net:8000/live/office/test/12451.ts
+#EXTINF:0, group-title="Sports",Sky Sports Action 
+http://izgemma.ddns.net:8000/live/pedro/pedro/6670.ts|
+http://izgemma.ddns.net:8000/live/pedro/pedro/6672.ts
+#EXTINF:0, group-title="Sports",Sky Sports Cricket 
+http://izgemma.ddns.net:8000/live/carl/carl/32881.ts|
+http://izgemma.ddns.net:8000/live/pedro/pedro/32881.ts|
+http://izgemma.ddns.net:8000/live/carl/carl/16599.ts|
+http://izgemma.ddns.net:8000/live/pedro/pedro/16599.ts
+#EXTINF:0, group-title="Sports",Sky Sports Mix 
+http://izgemma.ddns.net:8000/live/pedro/pedro/9723.ts|
+http://izgemma.ddns.net:8000/live/pedro/pedro/6669.ts|
+http://izgemma.ddns.net:8000/live/carl/carl/9723.ts
+#EXTINF:0, group-title="Sports",Sky Sports Main Event 
+http://stars.managercw.com:8000/live/0669166993dah/610931222souf/818.ts|
+http://izgemma.ddns.net:8000/live/pedro/pedro/36512.ts|
+http://95.154.194.84:8000/live/waseem1/waseem1/19250.ts
+#EXTINF:0, group-title="Sports",Sky Sports Football 
+http://izgemma.ddns.net:8000/live/pedro/pedro/6461.ts|
+http://izgemma.ddns.net:8000/live/carl/carl/12451.ts|
+http://izgemma.ddns.net:8000/live/pedro/pedro/12450.ts|
+http://izgemma.ddns.net:8000/live/pedro/pedro/12451.ts
 #EXTINF:0, group-title="Sports",BT Sport 1 HD
 http://izgemma.ddns.net:8000/live/office/test/1389.ts
 #EXTINF:0, group-title="Sports",BT Sport 2 HD
@@ -175,8 +185,11 @@ http://izgemma.ddns.net:8000/live/office/test/6667.ts
 #EXTINF:0, group-title="Sports",BT Sport 3 HD
 http://izgemma.ddns.net:8000/live/office/test/6671.ts
 #EXTINF:0, group-title="Sports",BT Sport ESPN HD
+http://izgemma.ddns.net:8000/live/pedro/pedro/37330.ts|
 http://izgemma.ddns.net:8000/live/office/test/129.ts
 #EXTINF:0, group-title="Sports",Eurosport 1 HD
+http://izgemma.ddns.net:8000/live/carl/carl/29815.ts|
+http://izgemma.ddns.net:8000/live/shaun/shaun/10763.ts|
 http://izgemma.ddns.net:8000/live/office/test/799.ts
 #EXTINF:0, group-title="Sports",Eurosport 2 HD
 http://izgemma.ddns.net:8000/live/office/test/798.ts
