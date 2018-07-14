@@ -160,9 +160,10 @@ http://izgemma.ddns.net:8000/live/office/test/12450.ts
 #EXTINF:0, group-title="Sports",Sky Sports Action HD
 http://51.15.199.82:25461/live/euroiptv/euroiptv/1655.ts
 #EXTINF:0, group-title="Sports",Sky Sports Cricket HD
-http://izgemma.ddns.net:8000/live/office/test/1122.ts
+http://izgemma.ddns.net:8000/live/carl/carl/32881.ts |
+http://izgemma.ddns.net:8000/live/pedro/pedro/32881.ts
 #EXTINF:0, group-title="Sports",Sky Sports Mix HD
-http://54.37.255.204:9977/live/Rodriguez/Rodriguez/27086.ts
+http://izgemma.ddns.net:8000/live/pedro/pedro/6669.ts
 #EXTINF:0, group-title="Sports",Sky Sports Main Event HD
 http://stars.managercw.com:8000/live/0669166993dah/610931222souf/818.ts
 #EXTINF:0, group-title="Sports",Sky Sports Football HD
