@@ -74,135 +74,187 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/7697.ts
 
 
+
+
+
+
 #EXTINF:0, group-title="News",Times Now HD
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+
 #EXTINF:-0, group-title="News",EURONEWS HD
 http://109.236.92.197:9090/live/yRSXRyESou/iJGY7CXEkE/821.ts
+
 #EXTINF:0, group-title="News",Al Jazeera
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+
 #EXTINF:-0, group-title="News",BBC News HD
 http://51.15.199.82:25461/live/euroiptv/euroiptv/814.ts
+
 #EXTINF:0, group-title="News",BBC World News
-http://izgemma.ddns.net:8000/live/office/test/13688.ts
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
 #EXTINF:0, group-title="News",Bloomberg
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226082/index.m3u8
 http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3.m3u8
+
 #EXTINF:0, group-title="News",Et Now
 https://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/etnow_hls.smil/chunklist_w1103706317_b512000.m3u8
+
 #EXTINF:0, group-title="News",Headlines Today
 http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+
 #EXTINF:0, group-title="News",India Today
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226423/index.m3u8
+
 #EXTINF:0, group-title="News",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+
 #EXTINF:0, group-title="News",News X HD
 http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
+
 #EXTINF:0, group-title="News",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
 #EXTINF:0, group-title="News",CNN
 http://139.59.81.43:8000//live/24684/84981981/246.ts|User-Agent=HD-STM/3.0
+
 #EXTINF:0, group-title="News",CNN NEWS 18
 http://139.59.81.43:8000//live/24684/84981981/249.ts|User-Agent=HD-STM/3.0
+
 #EXTINF:-0, group-title="News",FOX News
 http://izgemma.ddns.net:8000/live/office/test/614.ts
+
 #EXTINF:0, group-title="News",Aaj Tak
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+
 #EXTINF:0, group-title="News",ABP News
 http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+
 #EXTINF:0, group-title="News",Zee News
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225922/01.m3u8
-#EXTINF:-0, group-title="News",ARY News 
-http://izgemma.ddns.net:8000/live/office/test/6303.ts
+
+#EXTINF:-0, group-title="News",Republic Bharat 
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1567723990~exp=1567726990~acl=/*~hmac=40fec7023d1d84b24d1267d9ee0ab92bceff3d35274ebef7be58aaeea1472868
+
 #EXTINF:0, group-title="News",ABP Majha
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226020/01.m3u8
+
 #EXTINF:0, group-title="News",Zee 24 Taas
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225926/01.m3u8
+
+#EXTINF:0, group-title="News",News18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+
+
+
+
 
 
 #EXTINF:0, group-title="Sports",Willow Cricket HD
 http://0nelive.hjkm.info:13292/ceres/willowhd/playlist.m3u8
+
 #EXTINF:-0, group-title="Sports",OSN Cricket HD
 http://51.15.199.82:25461/live/euroiptv/euroiptv/352.ts
+
 #EXTINF:0, group-title="Sports",D Sport
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226392/1.m3u8
+
 #EXTINF:0, group-title="Sports",DD Sports
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/01.m3u
+
 #EXTINF:0, group-title="Sports",Neo Prime
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8
+
 #EXTINF:0, group-title="Sports",Neo Sports
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8
+
 #EXTINF:0, group-title="Sports",Sony ESPN HD
-http://51.15.199.82:25461/live/euroiptv/euroiptv/1650.ts
+https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+
 #EXTINF:0, group-title="Sports",Sony Six HD
-http://izgemma.ddns.net:8000/live/pedro/pedro/277.ts
+https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
+
 #EXTINF:0, group-title="Sports",Ten 1 HD
-http://103.253.27.151:8888/live/dee/dee/619.ts
+https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
+
 #EXTINF:0, group-title="Sports",Ten 2 HD
-http://103.253.27.151:8888/live/dee/dee/467.ts
+https://dl.dropbox.com/s/frs8vbpd0gthf6s/badminton2.m3u8?dl=0
+
 #EXTINF:0, group-title="Sports",Ten 3 HD
-http://103.253.27.151:8888/live/dee/dee/566.ts
+https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
+
 #EXTINF:0, group-title="Sports",Dsports HD
-http://139.59.81.43:8000//live/24684/84981981/445.ts|User-Agent=HD-STM/3.0
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+
 #EXTINF:0, group-title="Sports",Star Sports 1 HD
 http://51.15.199.82:25461/live/euroiptv/euroiptv/408.ts
+
 #EXTINF:0, group-title="Sports",Star Sports 2 HD
 http://95.154.194.84:8000/live/waseem1/waseem1/6473.ts
+
 #EXTINF:0, group-title="Sports",Star Sports Select 1 HD
 http://51.15.199.82:25461/live/euroiptv/euroiptv/408.ts
+
 #EXTINF:0, group-title="Sports",Star Sports Select 2 HD
 http://95.154.194.84:8000/live/waseem1/waseem1/14122.ts
+
 #EXTINF:0, group-title="Sports",NBA TV
 http://109.236.92.197:9090/live/yRSXRyESou/iJGY7CXEkE/1025.ts
+
 #EXTINF:0, group-title="Sports",Sky Sports Main Event 
 http://izgemma.ddns.net:8000/live/carl/carl/36512.ts
+
 #EXTINF:0, group-title="Sports",Sky Sports Premier League 
 http://izgemma.ddns.net:8000/live/office/test/12450.ts
+
 #EXTINF:0, group-title="Sports",Sky Sports Action 
-http://izgemma.ddns.net:8000/live/pedro/pedro/6670.ts|
 http://izgemma.ddns.net:8000/live/pedro/pedro/6672.ts
-#EXTINF:0, group-title="Sports",Sky Sports Cricket 
-http://izgemma.ddns.net:8000/live/carl/carl/32881.ts|
-http://izgemma.ddns.net:8000/live/pedro/pedro/32881.ts|
-http://izgemma.ddns.net:8000/live/carl/carl/16599.ts|
+
+#EXTINF:0, group-title="Sports",Sky Sports Cricket
 http://izgemma.ddns.net:8000/live/pedro/pedro/16599.ts
+
 #EXTINF:0, group-title="Sports",Sky Sports Mix 
-http://izgemma.ddns.net:8000/live/pedro/pedro/9723.ts|
-http://izgemma.ddns.net:8000/live/pedro/pedro/6669.ts|
 http://izgemma.ddns.net:8000/live/carl/carl/9723.ts
+
 #EXTINF:0, group-title="Sports",Sky Sports Main Event 
-http://stars.managercw.com:8000/live/0669166993dah/610931222souf/818.ts|
-http://izgemma.ddns.net:8000/live/pedro/pedro/36512.ts|
 http://95.154.194.84:8000/live/waseem1/waseem1/19250.ts
+
 #EXTINF:0, group-title="Sports",Sky Sports Football 
-http://izgemma.ddns.net:8000/live/pedro/pedro/6461.ts|
-http://izgemma.ddns.net:8000/live/carl/carl/12451.ts|
-http://izgemma.ddns.net:8000/live/pedro/pedro/12450.ts|
 http://izgemma.ddns.net:8000/live/pedro/pedro/12451.ts
+
 #EXTINF:0, group-title="Sports",BT Sport 1 HD
 http://izgemma.ddns.net:8000/live/office/test/1389.ts
+
 #EXTINF:0, group-title="Sports",BT Sport 2 HD
 http://izgemma.ddns.net:8000/live/office/test/6667.ts
+
 #EXTINF:0, group-title="Sports",BT Sport 3 HD
 http://izgemma.ddns.net:8000/live/office/test/6671.ts
+
 #EXTINF:0, group-title="Sports",BT Sport ESPN HD
-http://izgemma.ddns.net:8000/live/pedro/pedro/37330.ts|
-http://izgemma.ddns.net:8000/live/office/test/129.ts
+https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
+
 #EXTINF:0, group-title="Sports",Eurosport 1 HD
-http://izgemma.ddns.net:8000/live/carl/carl/29815.ts|
-http://izgemma.ddns.net:8000/live/shaun/shaun/10763.ts|
 http://izgemma.ddns.net:8000/live/office/test/799.ts
+
 #EXTINF:0, group-title="Sports",Eurosport 2 HD
 http://izgemma.ddns.net:8000/live/office/test/798.ts
+
 #EXTINF:-0, group-title="Sports",Fox Sports 1 HD
 http://51.15.199.82:25461/live/euroiptv/euroiptv/807.ts
+
 #EXTINF:-0, group-title="Sports",TSN SPORT 2 HD
 http://4tv.vdns.info:8000/live/sero170/gokhanoz/1999.ts
+
 #EXTINF:-0, group-title="Sports",TSN SPORT 3 HD
 http://4tv.vdns.info:8000/live/sero170/gokhanoz/1998.ts
+
 #EXTINF:-0, group-title="Sports",TSN SPORT 4 HD
 http://4tv.vdns.info:8000/live/sero170/gokhanoz/2001.ts
+
 #EXTINF:0, group-title="Sports",PTV Sports
 http://izgemma.ddns.net:8000/live/office/test/37301.ts
+
+
 
 
 #EXTINF:0, group-title="Music",Desi Beats HD
@@ -225,58 +277,88 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 
 #EXTINF:0, group-title="Movies",HBO HD
 http://139.59.81.43:8000//live/24684/84981981/603.ts|User-Agent=HD-STM/3.0
+
 #EXTINF:0, group-title="Movies",HBO 2
 http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/1033.ts
+
 #EXTINF:0, group-title="Movies",HBO Zone
 http://103.253.27.151:8888/live/dee/dee/406.ts
+
 #EXTINF:-0, group-title="Movies",HBO Hits
 http://103.253.27.151:8888/live/dee/dee/591.ts
+
 #EXTINF:0, group-title="Movies",MN+ HD
-http://139.59.81.43:8000//live/24684/84981981/958.ts|User-Agent=HD-STM/3.0
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+
 #EXTINF:0, group-title="Movies",Movies Now HD
-http://139.59.81.43:8000//live/24684/84981981/962.ts|User-Agent=HD-STM/3.0
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+
 #EXTINF:0, group-title="Movies",Movies Now2 HD
 http://139.59.81.43:8000//live/24684/84981981/969.ts|User-Agent=HD-STM/3.0
+
 #EXTINF:0, group-title="Movies",Sony Le Plex HD
 http://103.253.27.151:8888/live/dee/dee/383.ts
+
 #EXTINF:0, group-title="Movies",Sony Pix HD
 http://139.59.81.43:8000//live/24684/84981981/1399.ts|User-Agent=HD-STM/3.0
+
 #EXTINF:0, group-title="Movies",Romedy Now HD
-http://139.59.81.43:8000//live/24684/84981981/1239.ts|User-Agent=HD-STM/3.0
+https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+
 #EXTINF:0, group-title="Movies",& Flix HD
 http://103.253.27.151:8888/live/dee/dee/338.ts
+
 #EXTINF:-0, group-title="Movies",Universal HD
 http://izgemma.ddns.net:8000/live/pedro/pedro/1751.ts
+
 #EXTINF:-0, group-title="Movies",Sky Cinema Hits HD
 http://izgemma.ddns.net:8000/live/office/test/37157.ts
+
 #EXTINF:-0, group-title="Movies",Sky Cinema Premiere HD
 http://izgemma.ddns.net:8000/live/office/test/67.ts
+
 #EXTINF:-0, group-title="Movies",Sky Cinema Disney HD
 http://izgemma.ddns.net:8000/live/office/test/11378.ts
+
 #EXTINF:-0, group-title="Movies",Sky Cinema Action HD
 http://izgemma.ddns.net:8000/live/office/test/32784.ts
+
 #EXTINF:-0, group-title="Movies",True Movies 1 HD
 http://izgemma.ddns.net:8000/live/office/test/25.ts
+
 #EXTINF:-0, group-title="Movies",True Movies 2 HD
 http://51.15.199.82:25461/live/euroiptv/euroiptv/311.ts
+
 #EXTINF:-0, group-title="Movies",CBS ACTION
 http://izgemma.ddns.net:8000/live/office/test/9225.ts
+
 #EXTINF:-0, group-title="Movies",CBS DRAMA
 http://izgemma.ddns.net:8000/live/office/test/113.ts
+
 #EXTINF:-0, group-title="Movies",Film 4
 http://51.15.199.82:25461/live/euroiptv/euroiptv/307.ts
+
 #EXTINF:0, group-title="Movies",Sony Max HD
-http://125.17.129.13/wh7f454c46tw1426839479_1338613003/PLTV/88888888/224/3221225776/01.m3u8|User-Agent=ExoPlayerDemo
+https://streamer-1.toffeelive.com/live/set_max_hd_576/index.m3u8
+
 #EXTINF:0, group-title="Movies",Zee Cinema HD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226083/index.m3u8
+
 #EXTINF:0, group-title="Movies",& Pictures HD
 http://izgemma.ddns.net:8000/live/office/test/271.ts
+
 #EXTINF:0, group-title="Movies",Movies OK HD 
 http://139.59.81.43:8000//live/24684/84981981/970.ts|User-Agent=HD-STM/3.0
+
 #EXTINF:0, group-title="Movies",Star Gold HD
 http://izgemma.ddns.net:8000/live/office/test/11321.ts
+
 #EXTINF:0, group-title="Movies",Zee Talkies HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226202/01.m3u8
+
+
+
+
 
 
 #EXTINF:0, group-title="GK",Discovery HD World
