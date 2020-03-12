@@ -2,54 +2,70 @@
 
 #EXTINF:0, group-title="Entertainment",&tv HD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226084/index.m3u8
+
 #EXTINF:-0, group-title="Entertainment",Star Bhart HD
 http://izgemma.ddns.net:8000/live/office/test/1778.ts
+
 #EXTINF:-0, group-title="Entertainment",B4U PLUS
 http://izgemma.ddns.net:8000/live/office/test/8920.ts
+
 #EXTINF:0, group-title="Entertainment",Zee TV HD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225942/01.m3u8
+
 #EXTINF:0, group-title="Entertainment",Star Plus HD
 http://izgemma.ddns.net:8000/live/office/test/31969.ts
+
 #EXTINF:0, group-title="Entertainment",Sony Sab HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226078/01.m3u8
+
 #EXTINF:0, group-title="Entertainment",Sony TV HD
-http://izgemma.ddns.net:8000/live/shaun/shaun/11308.ts
+https://streamer-1.toffeelive.com/live/sony_entertainment_576/index.m3u8
+
 #EXTINF:0, group-title="Entertainment",Channel V HD
 http://139.59.81.43:8000//live/24684/84981981/219.ts|User-Agent=HD-STM/3.0
+
 #EXTINF:0, group-title="Entertainment",Colors HD
 http://izgemma.ddns.net:8000/live/office/test/11290.ts
+
 #EXTINF:0, group-title="Entertainment",AXN HD
 http://103.253.27.151:8888/live/dee/dee/9.ts
+
 #EXTINF:0, group-title="Entertainment",STAR WORLD HD
 http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/7699.ts
+
 #EXTINF:0, group-title="Entertainment",STAR WORLD PREMIER HD
 http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/7700.ts
+
 #EXTINF:-0, group-title="Entertainment",A&E HD
 http://listaccess.me:8080/live/rebecca/rebecca123/7088.ts
+
 #EXTINF:-0, group-title="Entertainment",AMC HD
 http://listaccess.me:8080/live/rebecca/rebecca123/2344.ts
+
 #EXTINF:0, group-title="Entertainment",DW
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
 #EXTINF:-0, group-title="Entertainment",Syfy HD
 http://izgemma.ddns.net:8000/live/office/test/8150.ts
+
 #EXTINF:-0, group-title="Entertainment",FOX HD
 http://izgemma.ddns.net:8000/live/office/test/19632.ts
+
 #EXTINF:-0, group-title="Entertainment",BBC One HD
 http://51.15.199.82:25461/live/euroiptv/euroiptv/4.ts
+
 #EXTINF:-0, group-title="Entertainment",BBC Two HD
 http://izgemma.ddns.net:8000/live/office/test/120.ts
+
 #EXTINF:-0,  group-title="Entertainment",BBC Three HD
 http://103.253.27.151:8888/live/dee/dee/355.ts
+
 #EXTINF:-0, group-title="Entertainment",BBC Four HD
 http://103.253.27.151:8888/live/dee/dee/356.ts
-#EXTINF:-0, group-title="Entertainment",ITV 1 HD.
-http://izgemma.ddns.net:8000/live/office/test/13657.ts
-#EXTINF:-0, group-title="Entertainment",ITV 2 HD
-http://izgemma.ddns.net:8000/live/office/test/8153.ts
-#EXTINF:-0, group-title="Entertainment",ITV 3 HD
-http://izgemma.ddns.net:8000/live/office/test/37345.ts
-#EXTINF:-0, group-title="Entertainment",ITV 4 HD
-http://izgemma.ddns.net:8000/live/office/test/8155.ts
+
+#EXTINF:-0, group-title="Entertainment",Fashion TV HD.
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+
 #EXTINF:-0, group-title="Entertainment",Sky One HD
 http://izgemma.ddns.net:8000/live/office/test/698.ts
 #EXTINF:-0, group-title="Entertainment",Sky Arts HD
@@ -94,7 +110,7 @@ http://51.15.199.82:25461/live/euroiptv/euroiptv/814.ts
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:0, group-title="News",Bloomberg
-http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3.m3u8
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
 #EXTINF:0, group-title="News",Et Now
 https://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/etnow_hls.smil/chunklist_w1103706317_b512000.m3u8
@@ -156,7 +172,7 @@ http://0nelive.hjkm.info:13292/ceres/willowhd/playlist.m3u8
 http://51.15.199.82:25461/live/euroiptv/euroiptv/352.ts
 
 #EXTINF:0, group-title="Sports",D Sport
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226392/1.m3u8
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 
 #EXTINF:0, group-title="Sports",DD Sports
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/01.m3u
@@ -186,7 +202,7 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
 #EXTINF:0, group-title="Sports",Star Sports 1 HD
-http://51.15.199.82:25461/live/euroiptv/euroiptv/408.ts
+http://195.181.169.120/StarSports_Hd4/tracks-v1a1/mono.m3u8
 
 #EXTINF:0, group-title="Sports",Star Sports 2 HD
 http://95.154.194.84:8000/live/waseem1/waseem1/6473.ts
@@ -256,6 +272,9 @@ http://izgemma.ddns.net:8000/live/office/test/37301.ts
 
 
 
+
+#EXTINF:0, group-title="Music",Hungama Digital Network
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
 
 #EXTINF:0, group-title="Music",Desi Beats HD
 http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
