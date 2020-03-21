@@ -66,26 +66,12 @@ http://103.253.27.151:8888/live/dee/dee/356.ts
 #EXTINF:-0, group-title="Entertainment",Fashion TV HD.
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 
-#EXTINF:-0, group-title="Entertainment",Sky One HD
-http://izgemma.ddns.net:8000/live/office/test/698.ts
-#EXTINF:-0, group-title="Entertainment",Sky Arts HD
-http://izgemma.ddns.net:8000/live/office/test/8156.ts
-#EXTINF:-0, group-title="Entertainment",3e HD
-http://izgemma.ddns.net:8000/live/office/test/3406.ts
-#EXTINF:-0, group-title="Entertainment",Dave HD
-http://izgemma.ddns.net:8000/live/office/test/31974.ts
-#EXTINF:-0, group-title="Entertainment",MTV HD
-http://izgemma.ddns.net:8000/live/office/test/21295.ts
-#EXTINF:-0, group-title="Entertainment",4 SEVEN HD
-http://izgemma.ddns.net:8000/live/office/test/37163.ts
-#EXTINF:-0, group-title="Entertainment",Lifetime HD
-http://izgemma.ddns.net:8000/live/office/test/9233.ts
-#EXTINF:-0, group-title="Entertainment",QVC HD
-http://izgemma.ddns.net:8000/live/office/test/22989.ts
 #EXTINF:0, group-title="Entertainment",Colors Marathi HD
 http://139.59.81.43:8000//live/24684/84981981/272.ts|User-Agent=HD-STM/3.0
+
 #EXTINF:0, group-title="Entertainment",Zee Marathi HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226278/01.m3u8
+
 #EXTINF:0, group-title="Entertainment",Star Pravah HD
 http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/7697.ts
 
@@ -142,7 +128,7 @@ http://izgemma.ddns.net:8000/live/office/test/614.ts
 #EXTINF:0, group-title="News",Aaj Tak
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 
-#EXTINF:0, group-title="News",ABP News
+#EXTINF:0, group-title="News",tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png",ABP News
 http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 
 #EXTINF:0, group-title="News",Zee News
@@ -151,8 +137,8 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:-0, group-title="News",Republic Bharat 
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1567723990~exp=1567726990~acl=/*~hmac=40fec7023d1d84b24d1267d9ee0ab92bceff3d35274ebef7be58aaeea1472868
 
-#EXTINF:0, group-title="News",ABP Majha
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226020/01.m3u8
+#EXTINF:0, group-title="News",tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/abpmajha78.jpg",ABP Majha
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
 
 #EXTINF:0, group-title="News",Zee 24 Taas
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225926/01.m3u8
@@ -173,6 +159,9 @@ http://51.15.199.82:25461/live/euroiptv/euroiptv/352.ts
 
 #EXTINF:0, group-title="Sports",D Sport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+
+#EXTINF:0, group-title="Sports",Olympic Channel 4K
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 
 #EXTINF:0, group-title="Sports",DD Sports
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/01.m3u
@@ -201,7 +190,7 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:0, group-title="Sports",Dsports HD
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
-#EXTINF:0, group-title="Sports",Star Sports 1 HD
+#EXTINF:0, group-title="Sports",Star Sports 1 4K
 http://195.181.169.120/StarSports_Hd4/tracks-v1a1/mono.m3u8
 
 #EXTINF:0, group-title="Sports",Star Sports 2 HD
@@ -276,22 +265,19 @@ http://izgemma.ddns.net:8000/live/office/test/37301.ts
 #EXTINF:0, group-title="Music",Hungama Digital Network
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
 
-#EXTINF:0, group-title="Music",Desi Beats HD
-http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
+#EXTINF:0, group-title="Music",tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/b4u_music_in.png",B4U Music
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
+
 #EXTINF:0, group-title="Music",Sony Rox HD
 http://izgemma.ddns.net:8000/live/pedro/pedro/307.ts
+
 #EXTINF:0, group-title="Music",MTV Beats HD
 http://139.59.81.43:8000//live/24684/84981981/980.ts|User-Agent=HD-STM/3.0
-#EXTINF:-0, group-title="Music",MTV BASE HD
-http://izgemma.ddns.net:8000/live/office/test/1754.ts
-#EXTINF:-0, group-title="Music",MTV Dance HD
-http://izgemma.ddns.net:8000/live/office/test/37427.ts
-#EXTINF:-0, group-title="Music",MTV OMG HD
-http://izgemma.ddns.net:8000/live/office/test/37152.ts
-#EXTINF:-0, group-title="Music",Virgin Radio TV
-http://izgemma.ddns.net:8000/live/office/test/1158.ts
+
 #EXTINF:0, group-title="Music",Sangeet Marathi
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226222/1.m3u8
+
+
 
 
 #EXTINF:0, group-title="Movies",HBO HD
