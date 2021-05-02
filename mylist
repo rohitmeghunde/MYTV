@@ -1,408 +1,611 @@
 #EXTM3U
 
-#EXTINF:0, group-title="Entertainment",&tv HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226084/index.m3u8
 
-#EXTINF:-0, group-title="Entertainment",Star Bhart HD
-http://izgemma.ddns.net:8000/live/office/test/1778.ts
+============================= News Channels ===========================
 
-#EXTINF:-0, group-title="Entertainment",B4U PLUS
-http://izgemma.ddns.net:8000/live/office/test/8920.ts
 
-#EXTINF:0, group-title="Entertainment",Zee TV HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225942/01.m3u8
+#EXTINF:-0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/FoxNews.png",FOX News
+http://plustlc.com:8080/live/huseyin61/24.10.2020/137016.ts?checkedby:hlscat.com
 
-#EXTINF:0, group-title="Entertainment",Star Plus HD
-http://izgemma.ddns.net:8000/live/office/test/31969.ts
+#EXTINF:-0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/FoxSportNews.png",FOX Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
-#EXTINF:0, group-title="Entertainment",Sony Sab HD
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226078/01.m3u8
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Newsmax.png",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 
-#EXTINF:0, group-title="Entertainment",Sony TV HD
-https://streamer-1.toffeelive.com/live/sony_entertainment_576/index.m3u8
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/TRT-World.png",TRT World
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
-#EXTINF:0, group-title="Entertainment",Channel V HD
-http://139.59.81.43:8000//live/24684/84981981/219.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SkyNews.png",Sky News HD
+http://iptvtree.net:8080/766a3d10/7781c6505e/1081?checkedby:hlscat.com
+https://cdn-laos.workpoint.news/uk-skynews_480/index.m3u8
 
-#EXTINF:0, group-title="Entertainment",Colors HD
-http://izgemma.ddns.net:8000/live/office/test/11290.ts
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/CNN-News.png",CNN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13750?checkedby:hlscat.com
 
-#EXTINF:0, group-title="Entertainment",AXN HD
-http://103.253.27.151:8888/live/dee/dee/9.ts
-
-#EXTINF:0, group-title="Entertainment",STAR WORLD HD
-http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/7699.ts
-
-#EXTINF:0, group-title="Entertainment",STAR WORLD PREMIER HD
-http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/7700.ts
-
-#EXTINF:-0, group-title="Entertainment",A&E HD
-http://listaccess.me:8080/live/rebecca/rebecca123/7088.ts
-
-#EXTINF:-0, group-title="Entertainment",AMC HD
-http://listaccess.me:8080/live/rebecca/rebecca123/2344.ts
-
-#EXTINF:0, group-title="Entertainment",DW
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/DW.png",DW
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
-#EXTINF:-0, group-title="Entertainment",Syfy HD
-http://izgemma.ddns.net:8000/live/office/test/8150.ts
+#EXTINF:-0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ALJazeera.png",AL Jazeera
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/158466?checkedby:hlscat.com
+http://45.126.83.51/qwr9ew/s/s17/index.m3u8
 
-#EXTINF:-0, group-title="Entertainment",FOX HD
-http://izgemma.ddns.net:8000/live/office/test/19632.ts
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Euronews.png",Euronews
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9545?checkedby:hlscat.com
 
-#EXTINF:-0, group-title="Entertainment",BBC One HD
-http://51.15.199.82:25461/live/euroiptv/euroiptv/4.ts
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ABCNews.png",ABC
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-0, group-title="Entertainment",BBC Two HD
-http://izgemma.ddns.net:8000/live/office/test/120.ts
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/CBSNews.png",CBS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-0,  group-title="Entertainment",BBC Three HD
-http://103.253.27.151:8888/live/dee/dee/355.ts
+#EXTINF:-0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/BBCNews.png",BBC News
+http://51.52.156.22:8888/http/004
 
-#EXTINF:-0, group-title="Entertainment",BBC Four HD
-http://103.253.27.151:8888/live/dee/dee/356.ts
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/BBCWorld.png",BBC World News
+http://iptvtree.net:8080/766a3d10/7781c6505e/6427?checkedby:hlscat.com
 
-#EXTINF:-0, group-title="Entertainment",Fashion TV HD.
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Australia-Channel.png",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 
-#EXTINF:0, group-title="Entertainment",Colors Marathi HD
-http://139.59.81.43:8000//live/24684/84981981/272.ts|User-Agent=HD-STM/3.0
+#EXTINF:-0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/FRANCE-24.png",France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+ 
+#EXTINF:-0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/RTENews.png",RTE News
+http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/39730.m3u8
 
-#EXTINF:0, group-title="Entertainment",Zee Marathi HD
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226278/01.m3u8
+#EXTINF:-0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Africa-News.png",Africa News
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
 
-#EXTINF:0, group-title="Entertainment",Star Pravah HD
-http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/7697.ts
+#EXTINF:-0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/CNA.png",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/BloombergNews.png",Bloomberg      
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
 
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/RT.png",RT
+http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/TimesNow.png",Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8?checkedby:hlscat.com
 
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Republic-World.png",Republic World
+https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
 
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/IndiaToday.png",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
 
-#EXTINF:0, group-title="News",Times Now HD
-http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-
-#EXTINF:-0, group-title="News",EURONEWS HD
-http://109.236.92.197:9090/live/yRSXRyESou/iJGY7CXEkE/821.ts
-
-#EXTINF:0, group-title="News",Al Jazeera
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
-
-#EXTINF:-0, group-title="News",BBC News HD
-http://51.15.199.82:25461/live/euroiptv/euroiptv/814.ts
-
-#EXTINF:0, group-title="News",BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-
-#EXTINF:0, group-title="News",Bloomberg
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-
-#EXTINF:0, group-title="News",Et Now
-https://timeslive.live-s.cdn.bitgravity.com/cdn-live/_definst_/timeslive/live/etnow_hls.smil/chunklist_w1103706317_b512000.m3u8
-
-#EXTINF:0, group-title="News",Headlines Today
-http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
-
-#EXTINF:0, group-title="News",India Today
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226423/index.m3u8
-
-#EXTINF:0, group-title="News",Mirror Now
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/MirrorNow.png",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 
-#EXTINF:0, group-title="News",News X HD
-http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ETNow.png",ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 
-#EXTINF:0, group-title="News",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-
-#EXTINF:0, group-title="News",CNN
-http://139.59.81.43:8000//live/24684/84981981/246.ts|User-Agent=HD-STM/3.0
-
-#EXTINF:0, group-title="News",CNN NEWS 18
-http://139.59.81.43:8000//live/24684/84981981/249.ts|User-Agent=HD-STM/3.0
-
-#EXTINF:-0, group-title="News",FOX News
-http://izgemma.ddns.net:8000/live/office/test/614.ts
-
-#EXTINF:0, group-title="News",Aaj Tak
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/AajTak.png",Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 
-#EXTINF:0, group-title="News",tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png",ABP News
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+#EXTINF:-0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/RBharat.png",Republic Bharat 
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
 
-#EXTINF:0, group-title="News",Zee News
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225922/01.m3u8
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/AbpNews.png",ABP News HD
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 
-#EXTINF:-0, group-title="News",Republic Bharat 
-https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1567723990~exp=1567726990~acl=/*~hmac=40fec7023d1d84b24d1267d9ee0ab92bceff3d35274ebef7be58aaeea1472868
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ZeeNews.png",Zee News
+https://zee.avipatilpro.repl.co/?c=0-9-zeenews
 
-#EXTINF:0, group-title="News",tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/abpmajha78.jpg",ABP Majha
+#EXTINF:-0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/IndiaTV.png",India TV
+https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8
+
+#EXTINF:-0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/NewsNation.png",News Nation
+https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8 
+
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/RSTV.png",RSTV
+https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+
+#EXTINF:-0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/DD-News.png",DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/AbpMaza.png",ABP Majha
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
 
-#EXTINF:0, group-title="News",Zee 24 Taas
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225926/01.m3u8
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/TV9-Marathi.png",TV9 Marathi
+https://zee.avipatilpro.repl.co/?c=0-9-257
 
-#EXTINF:0, group-title="News",News18 Lokmat
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Zee24Tass.png",Zee 24 Taas
+https://zee.avipatilpro.repl.co/?c=0-9-zee24taas
+
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/News18Lokmat.png",News18 Lokmat
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ARYNews.png",ARY News 
+https://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/GeoNews.png",GEO News
+http://95.211.211.168/live/geonews0011/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0, group-title="News" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/92News-HD.png",92 News HD
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
 
 
 
-
-#EXTINF:0, group-title="Sports",Willow Cricket HD
-http://0nelive.hjkm.info:13292/ceres/willowhd/playlist.m3u8
-
-#EXTINF:-0, group-title="Sports",OSN Cricket HD
-http://51.15.199.82:25461/live/euroiptv/euroiptv/352.ts
-
-#EXTINF:0, group-title="Sports",D Sport
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
-
-#EXTINF:0, group-title="Sports",Olympic Channel 4K
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
-
-#EXTINF:0, group-title="Sports",DD Sports
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/01.m3u
-
-#EXTINF:0, group-title="Sports",Neo Prime
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8
-
-#EXTINF:0, group-title="Sports",Neo Sports
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8
-
-#EXTINF:0, group-title="Sports",Sony ESPN HD
-https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
-
-#EXTINF:0, group-title="Sports",Sony Six HD
-https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
-
-#EXTINF:0, group-title="Sports",Ten 1 HD
-https://dl.dropbox.com/s/96ziqh1ehkhzh81/badminton1.m3u8?dl=0
-
-#EXTINF:0, group-title="Sports",Ten 2 HD
-https://dl.dropbox.com/s/frs8vbpd0gthf6s/badminton2.m3u8?dl=0
-
-#EXTINF:0, group-title="Sports",Ten 3 HD
-https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
-
-#EXTINF:0, group-title="Sports",Dsports HD
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-
-#EXTINF:0, group-title="Sports",Star Sports 1 4K
-http://195.181.169.120/StarSports_Hd4/tracks-v1a1/mono.m3u8
-
-#EXTINF:0, group-title="Sports",Star Sports 2 HD
-http://95.154.194.84:8000/live/waseem1/waseem1/6473.ts
-
-#EXTINF:0, group-title="Sports",Star Sports Select 1 HD
-http://51.15.199.82:25461/live/euroiptv/euroiptv/408.ts
-
-#EXTINF:0, group-title="Sports",Star Sports Select 2 HD
-http://95.154.194.84:8000/live/waseem1/waseem1/14122.ts
-
-#EXTINF:0, group-title="Sports",NBA TV
-http://109.236.92.197:9090/live/yRSXRyESou/iJGY7CXEkE/1025.ts
-
-#EXTINF:0, group-title="Sports",Sky Sports Main Event 
-http://izgemma.ddns.net:8000/live/carl/carl/36512.ts
-
-#EXTINF:0, group-title="Sports",Sky Sports Premier League 
-http://izgemma.ddns.net:8000/live/office/test/12450.ts
-
-#EXTINF:0, group-title="Sports",Sky Sports Action 
-http://izgemma.ddns.net:8000/live/pedro/pedro/6672.ts
-
-#EXTINF:0, group-title="Sports",Sky Sports Cricket
-http://izgemma.ddns.net:8000/live/pedro/pedro/16599.ts
-
-#EXTINF:0, group-title="Sports",Sky Sports Mix 
-http://izgemma.ddns.net:8000/live/carl/carl/9723.ts
-
-#EXTINF:0, group-title="Sports",Sky Sports Main Event 
-http://95.154.194.84:8000/live/waseem1/waseem1/19250.ts
-
-#EXTINF:0, group-title="Sports",Sky Sports Football 
-http://izgemma.ddns.net:8000/live/pedro/pedro/12451.ts
-
-#EXTINF:0, group-title="Sports",BT Sport 1 HD
-http://izgemma.ddns.net:8000/live/office/test/1389.ts
-
-#EXTINF:0, group-title="Sports",BT Sport 2 HD
-http://izgemma.ddns.net:8000/live/office/test/6667.ts
-
-#EXTINF:0, group-title="Sports",BT Sport 3 HD
-http://izgemma.ddns.net:8000/live/office/test/6671.ts
-
-#EXTINF:0, group-title="Sports",BT Sport ESPN HD
-https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
-
-#EXTINF:0, group-title="Sports",Eurosport 1 HD
-http://izgemma.ddns.net:8000/live/office/test/799.ts
-
-#EXTINF:0, group-title="Sports",Eurosport 2 HD
-http://izgemma.ddns.net:8000/live/office/test/798.ts
-
-#EXTINF:-0, group-title="Sports",Fox Sports 1 HD
-http://51.15.199.82:25461/live/euroiptv/euroiptv/807.ts
-
-#EXTINF:-0, group-title="Sports",TSN SPORT 2 HD
-http://4tv.vdns.info:8000/live/sero170/gokhanoz/1999.ts
-
-#EXTINF:-0, group-title="Sports",TSN SPORT 3 HD
-http://4tv.vdns.info:8000/live/sero170/gokhanoz/1998.ts
-
-#EXTINF:-0, group-title="Sports",TSN SPORT 4 HD
-http://4tv.vdns.info:8000/live/sero170/gokhanoz/2001.ts
-
-#EXTINF:0, group-title="Sports",PTV Sports
-http://izgemma.ddns.net:8000/live/office/test/37301.ts
+=================================== Entertainment ===================================================
 
 
 
 
-#EXTINF:0, group-title="Music",Hungama Digital Network
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+#EXTINF:0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/And-TVHD.png",And tv HD
+https://zee.avipatilpro.repl.co/?c=0-9-tvhd_0
 
-#EXTINF:0, group-title="Music",tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/b4u_music_in.png",B4U Music
-http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
+#EXTINF:-0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/StarBharat.png",Star Bhart
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672447?checkedby:hlscat.com
 
-#EXTINF:0, group-title="Music",Sony Rox HD
-http://izgemma.ddns.net:8000/live/pedro/pedro/307.ts
+#EXTINF:0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ZeeTV-HD.png",Zee TV
+https://zee.avipatilpro.repl.co/?c=0-9-zeetvhd
 
-#EXTINF:0, group-title="Music",MTV Beats HD
-http://139.59.81.43:8000//live/24684/84981981/980.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/StarPlus.png",Star Plus HD
+http://iptvtree.net:8080/766a3d10/7781c6505e/16091?checkedby:hlscat.com
 
-#EXTINF:0, group-title="Music",Sangeet Marathi
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226222/1.m3u8
+#EXTINF:0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Sub-HD.png",Sony Sab HD
+http://tv.ebox.live:8080/live/sony-sab.m3u8
+https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8
+
+#EXTINF:0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SonyTV-HD.png",Sony TV
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6525?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ColorsTV.png",Colors HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16881?checkedby:hlscat.com
+
+#EXTINF:-0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/USA.png",USA Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
+
+#EXTINF:-0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/5HD.png",5 USA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Showtime.png",SHOWTIME HD
+http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/41400.m3u8
+
+#EXTINF:0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/AXN.png",AXN HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/StarWorld.png",STAR WORLD HD
+https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
+
+#EXTINF:0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ZeeCafe-HD.png",Zee Cafe HD
+https://zee.avipatilpro.repl.co/?c=0-9-zeecafehd
+
+#EXTINF:0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ColorsInfinity.png",Color Infinity HD
+http://tv.ebox.live:8080/live/color-Infinity.m3u8
+
+#EXTINF:-0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/AE-HD.png",A&E HD
+http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/32564.ts?checkedby:hlscat.com
+
+#EXTINF:-0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/AMC-HD.png",AMC HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9515?checkedby:hlscat.com
+
+#EXTINF:-0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/BBC-Entertainment.png",BBC Entertainment
+http://a1.gokakka.club:8880/testzyx030/123456789/28862?checkedby:hlscat.com
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9548?checkedby:hlscat.com
+
+#EXTINF:-0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/BBCOne.png",BBC One
+http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1279?checkedby:hlscat.com
+
+#EXTINF:-0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/BBCTwo.png",BBC Two
+http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1278?checkedby:hlscat.com
+
+#EXTINF:-0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SkyOne.png",Sky One
+http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1512?checkedby:hlscat.com
+
+#EXTINF:-0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SkyTwo.png",Sky Two
+http://a1.gokakka.club:8880/testzyx030/123456789/28959?checkedby:hlscat.com
+
+#EXTINF:-0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/CW.png",CW
+http://yourdnshere.xyz:83/live/trevorparker/8177168823/353863.ts?checkedby:hlscat.com
+
+#EXTINF:-0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/5Star.png",5 Star
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11461?checkedby:hlscat.com
+
+#EXTINF:-0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Alibi.png",Alibi
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/1131?checkedby:hlscat.com
+
+#EXTINF:-0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ITV-BE.png",ITV BE
+http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/39719.m3u8
+
+#EXTINF:-0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ITV-1.png",ITV 1HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15734?checkedby:hlscat.com
+
+#EXTINF:-0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ITV-2.png",ITV 2HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15730?checkedby:hlscat.com
+
+#EXTINF:-0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Bravo-HD.png",Bravo HD
+http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/11532.m3u8
+
+#EXTINF:-0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Syfy-HD.png",Syfy HD
+http://iptvtree.net:8080/766a3d10/7781c6505e/1068?checkedby:hlscat.com
+
+#EXTINF:-0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/StarZ-HD.png",STARZ
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/63652?checkedby:hlscat.com
+
+#EXTINF:-0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Fox-HD.png",FOX HD
+http://ultimateiptv.me:8081/live/najat/najat123/11031.m3u8
+
+#EXTINF:0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/MTV.png",MTV HD
+http://nitro.ltd:25461/live/StevenD2020/StevFr2019/3662.m3u8
+
+#EXTINF:0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/QIndia.png",The Q India
+https://amg1-i.akamaihd.net/hls/live/784034/Q001/playlist.m3u8
+
+#EXTINF:0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ColorsMarathi-HD.png",Colors Marathi HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/118?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ZeeMarathi.png",Zee Marathi HD
+https://zee.avipatilpro.repl.co/?c=0-9-zeemarathi
+
+#EXTINF:0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/StarPravah.png",Star Pravah HD
+http://zer0live.hjkm.info:13292/vesta/starparvah/chunks.m3u8
+
+#EXTINF:0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SonyMarathi.png",Sony Marathi
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/167?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Entertainment" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/DDNational.png",DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
 
 
 
-#EXTINF:0, group-title="Movies",HBO HD
-http://139.59.81.43:8000//live/24684/84981981/603.ts|User-Agent=HD-STM/3.0
+================================= Movies Channels ==========================================
 
-#EXTINF:0, group-title="Movies",HBO 2
-http://premium-iptv.link:6969/live/fOAou2jaNh/PTQ3vtjwisjss/1033.ts
 
-#EXTINF:0, group-title="Movies",HBO Zone
-http://103.253.27.151:8888/live/dee/dee/406.ts
 
-#EXTINF:-0, group-title="Movies",HBO Hits
-http://103.253.27.151:8888/live/dee/dee/591.ts
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/HBO-HD.png",HBO HD
+http://136.243.177.164/HBO/playlist.m3u8?checkedby:hlscat.com
 
-#EXTINF:0, group-title="Movies",MN+ HD
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/WB.png",WB
+http://203.154.243.89:11205/?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/FX.png",FX
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13763?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/AXN-Movies.png",AXN Movies HD
+https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
+
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/StarMovies.png",Star Movies HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672448?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/BBCAmerica.png",BBC America
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14392?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/5StarMax-HD.png",5 Star MAX HD
+http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/42389.m3u8
+
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ActionMax-HD.png",Action MAX HD
+http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/42382.m3u8
+
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Cinemax.png",CineMax HD
+http://193.33.39.108:8107/30709
+
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ShowCase.png",SHOWCASE
+http://server.watchu.tv:8000/cd81F1UbGP6WEPAh0/9fe7F1USP3rr7JaFx/346
+
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/MXN-HD.png",MNX HD
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
-#EXTINF:0, group-title="Movies",Movies Now HD
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/MoviesNow.png",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
-#EXTINF:0, group-title="Movies",Movies Now2 HD
-http://139.59.81.43:8000//live/24684/84981981/969.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SonyLePlex-HD.png",Sony Le Plex HD
+http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Le_PLEX_HD/Sony_Le_PLEX_HD.m3u8
 
-#EXTINF:0, group-title="Movies",Sony Le Plex HD
-http://103.253.27.151:8888/live/dee/dee/383.ts
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SonyPix-HD.png",Sony Pix HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10607?checkedby:hlscat.com
 
-#EXTINF:0, group-title="Movies",Sony Pix HD
-http://139.59.81.43:8000//live/24684/84981981/1399.ts|User-Agent=HD-STM/3.0
-
-#EXTINF:0, group-title="Movies",Romedy Now HD
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/RomedyNow-HD.png",Romedy Now HD
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 
-#EXTINF:0, group-title="Movies",& Flix HD
-http://103.253.27.151:8888/live/dee/dee/338.ts
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/AndFlix-HD.png",& Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 
-#EXTINF:-0, group-title="Movies",Universal HD
-http://izgemma.ddns.net:8000/live/pedro/pedro/1751.ts
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ANDPrive.png",& Prive HD
+https://zee.avipatilpro.repl.co/?c=0-9-privéhd
 
-#EXTINF:-0, group-title="Movies",Sky Cinema Hits HD
-http://izgemma.ddns.net:8000/live/office/test/37157.ts
+#EXTINF:-0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Universal-HD.png",Universal HD
+http://supertv.iptv.rentals:83/live/dircharlie/90393092/308770.m3u8
 
-#EXTINF:-0, group-title="Movies",Sky Cinema Premiere HD
-http://izgemma.ddns.net:8000/live/office/test/67.ts
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SkyAtlantic.png",Sky Atlantic HD
+http://a1.gokakka.club:8880/testzyx030/123456789/28902?checkedby:hlscat.com
 
-#EXTINF:-0, group-title="Movies",Sky Cinema Disney HD
-http://izgemma.ddns.net:8000/live/office/test/11378.ts
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SkyCinemaAction.png",Sky Cinema Action
+http://a1.gokakka.club:8880/testzyx030/123456789/28761?checkedby:hlscat.com
 
-#EXTINF:-0, group-title="Movies",Sky Cinema Action HD
-http://izgemma.ddns.net:8000/live/office/test/32784.ts
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SkyCinemaPremiere.png",Sky Cinema Premiere
+http://a1.gokakka.club:8880/testzyx030/123456789/28956?checkedby:hlscat.com
 
-#EXTINF:-0, group-title="Movies",True Movies 1 HD
-http://izgemma.ddns.net:8000/live/office/test/25.ts
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SonyMax-HD.png",Sony Max HD
+http://a1.gokakka.club:8880/testzyx030/123456789/28738?checkedby:hlscat.com
 
-#EXTINF:-0, group-title="Movies",True Movies 2 HD
-http://51.15.199.82:25461/live/euroiptv/euroiptv/311.ts
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ZeeCinema-HD.png",Zee Cinema HD
+https://zee.avipatilpro.repl.co/?c=0-9-zeecinemahd
 
-#EXTINF:-0, group-title="Movies",CBS ACTION
-http://izgemma.ddns.net:8000/live/office/test/9225.ts
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ZeeTheater.png",Zee Theater
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672457?checkedby:hlscat.com
 
-#EXTINF:-0, group-title="Movies",CBS DRAMA
-http://izgemma.ddns.net:8000/live/office/test/113.ts
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ZeeAction.png",Zee Action
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3971?checkedby:hlscat.com
 
-#EXTINF:-0, group-title="Movies",Film 4
-http://51.15.199.82:25461/live/euroiptv/euroiptv/307.ts
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/AndPictures-HD.png",& Pictures HD
+https://zee.avipatilpro.repl.co/?c=0-9-tvpictureshd
 
-#EXTINF:0, group-title="Movies",Sony Max HD
-https://streamer-1.toffeelive.com/live/set_max_hd_576/index.m3u8
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/UTV-Movies.png",UTV HD
+http://xtrm.rtload.be:8999/jaykhantest/JVJNDFLJGVNFDSLK/76?checkedby:hlscat.com
 
-#EXTINF:0, group-title="Movies",Zee Cinema HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226083/index.m3u8
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/StarGold-HD.png",Star Gold HD
+http://tv.ebox.live:8080/live/star-gold.m3u8
 
-#EXTINF:0, group-title="Movies",& Pictures HD
-http://izgemma.ddns.net:8000/live/office/test/271.ts
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/StarGoldSelect-HD.png",Star Gold Select
+http://zer0live.hjkm.info:13292/juno/stargoldselect/chunks.m3u8
 
-#EXTINF:0, group-title="Movies",Movies OK HD 
-http://139.59.81.43:8000//live/24684/84981981/970.ts|User-Agent=HD-STM/3.0
-
-#EXTINF:0, group-title="Movies",Star Gold HD
-http://izgemma.ddns.net:8000/live/office/test/11321.ts
-
-#EXTINF:0, group-title="Movies",Zee Talkies HD
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226202/01.m3u8
+#EXTINF:0, group-title="Movies" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ZeeTalkies-HD.png",Zee Talkies HD     
+http://tvboxserver.raam.pw:2082/2CT2zgd30Q/MvsQgrTq0z/20843
 
 
 
 
+================================== Music Channels =======================================
 
 
-#EXTINF:0, group-title="GK",Discovery HD World
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226205/01.m3u8
-#EXTINF:-0, group-title="GK",Discovery Channel HD
-http://izgemma.ddns.net:8000/live/office/test/608.ts
-#EXTINF:0, group-title="GK",Discovery Science
-http://izgemma.ddns.net:8000/live/pedro/pedro/9884.ts
-#EXTINF:-0, group-title="GK",Discovery History
-http://izgemma.ddns.net:8000/live/office/test/106.ts
-#EXTINF:-0, group-title="GK",National Geographic HD
-http://izgemma.ddns.net:8000/live/office/test/9885.ts
-#EXTINF:0, group-title="GK",Natinal Geo Wild HD
-http://izgemma.ddns.net:8000/live/office/test/2986.ts
-#EXTINF:-0, group-title="Entertainment",Sky Living HD
-http://izgemma.ddns.net:8000/live/office/test/2706.ts
-#EXTINF:-0, group-title="Entertainment",Sky Atlantic HD
-http://izgemma.ddns.net:8000/live/office/test/8144.ts
-#EXTINF:0, group-title="GK",Living Foodz HD
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226329/index.m3u8
-#EXTINF:0, group-title="GK",Sony BBC Earth HD
-http://103.253.27.151:8888/live/dee/dee/385.ts
-#EXTINF:0, group-title="GK",TLC HD World
-http://103.253.27.151:8888/live/dee/dee/352.ts
-#EXTINF:0, group-title="GK",Animal Planet HD
-http://51.15.199.82:25461/live/euroiptv/euroiptv/967.ts
-#EXTINF:0, group-title="GK",Animal Planet HD World
-http://103.253.27.151:8888/live/dee/dee/514.ts
-#EXTINF:0, group-title="GK",History HD
-http://139.59.81.43:8000//live/24684/84981981/625.ts|User-Agent=HD-STM/3.0
-#EXTINF:0, group-title="GK",Travel XP HD
-http://139.59.81.43:8000//live/24684/84981981/1703.ts|User-Agent=HD-STM/3.0
-#EXTINF:-0, group-title="GK",Insight HD
-http://izgemma.ddns.net:8000/live/office/test/37161.ts
-#EXTINF:-0, group-title="GK",Eden HD
-http://izgemma.ddns.net:8000/live/office/test/9984.ts
-#EXTINF:-0, group-title="GK",Fashion TV HD
-http://103.253.27.151:8888/live/dee/dee/280.ts
 
+
+#EXTINF:0, group-title="Music" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Hungama.png",Hungama Music
+http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
+
+#EXTINF:0, group-title="Music" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Zing.png",Zing Music
+https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+
+#EXTINF:0, group-title="Music" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/B4UMusic.png",B4U Music
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
+
+#EXTINF:0, group-title="Music" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/9XM.png",9XM Music
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
+
+#EXTINF:0, group-title="Music" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SonyMix.png",Sony Mix
+https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/master.m3u8
+
+#EXTINF:0, group-title="Music" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/MTVBeats.png",MTV Beats HD
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+
+#EXTINF:0, group-title="Music" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/MTVHits.png",MTV Hits
+http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/3372.m3u8
+
+#EXTINF:0, group-title="Music" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/MTVDance.png",MTV Dance
+http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/3156.m3u8
+
+#EXTINF:0, group-title="Music" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/9XO.png",9XO
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/9XO-audio_208482_und=208000-video=877600.m3u8
+
+
+
+
+=================== Sports Channels =================================
+
+
+
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/WillowHD.png",Willow Cricket HD
+http://raostvip.com:8080/semi16/1609.sem/117374?checkedby:hlscat.com
+
+#EXTINF:-0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/OSNCricket-HD.png",OSN Cricket HD
+http://51.15.199.82:25461/live/euroiptv/euroiptv/352.ts
+
+#EXTINF:-0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/AstroCricket.png",Astro Cricket
+http://zer0live.hjkm.info:13292/besta/astrocric/chunks.m3u8
+
+#EXTINF:-0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/BeinSports-HD.png",Bein Sports HD US
+http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/15178.m3u8
+
+#EXTINF:-0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/BeinSportExtra.png",Bein Sports Extra 
+https://bein-plutolive-vo.akamaized.net/playlist.m3u8
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/DSports-HD.png",D Sport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Eurosport-4K.png",Eurosport 4K
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby:hlscat.com
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Olympic.png",Olympic Channel 4K
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Olympic.png",Olympic Channel HD
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/RedBull.png",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SonyESPN-HD.png",Sony ESPN HD
+https://sony247channels.akamaized.net/hls/live/2004806/SONYESPNSD/master.m3u8
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SonySix-HD.png",Sony Six HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5436?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/sony-ten1HD.png",Sony Ten 1 HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672325?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/sony-ten2HD.png",Sony Ten 2 HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672444?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/sony-ten3HD.png",Sony Ten 3 HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672445?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/StarSports1-HD.png",Star Sports 1 HD
+http://202.147.173.53:6106/play/a0wl/index.m3u8?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/StarSports1-HD.png",Star Sports 1 Hindi
+http://202.147.173.53:6106/play/a0lw/index.m3u8?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/StarSports2-HD.png",Star Sports 2 HD
+http://202.147.173.53:6106/play/a0we/index.m3u8?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/StarSports3-HD.png",Star Sports 3 HD
+http://95.154.194.84:8000/live/waseem1/waseem1/6473.ts
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/StarSportsSelect1.png",Star Sports Select 1HD
+http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/StarSportsSelect2-HD.png",Star Sports Select 2HD
+http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17309.m3u8?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SkySportsMain.png",Sky Sports Main Event
+http://raostvip.com:8080/semi16/1609.sem/108559?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SkySportsPremier.png",Sky Sports Premier League
+http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1520?checkedby:hlscat.com           
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SkySportsAction.png",Sky Sports Action
+http://a1.gokakka.club:8880/testzyx030/123456789/28740?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SkySports-Arena.png",Sky Sports Arena
+http://iptvtree.net:8080/766a3d10/7781c6505e/81124?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SkySportsCricket.png",Sky Sports Cricket
+http://raostvip.com:8080/semi16/1609.sem/108551?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SkySportsMix.png",Sky Sports Mix
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683003?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SkySportsFootball.png",Sky Sports Football
+http://a1.gokakka.club:8880/testzyx030/123456789/2870?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/FoxSports-1.png",FOX Sport 1HD
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/FoxSports-2.png",FOX Sport 2HD
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/BT-Sport1.png",BT Sport 1HD
+https://cdn-laos.workpoint.news/uk-btsport1hd_720/index.m3u8
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/BT-Sport2.png",BT Sport 2HD
+http://a1.gokakka.club:8880/testzyx030/123456789/2942?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/BT-Sport3.png",BT Sport 3HD
+http://a1.gokakka.club:8880/testzyx030/123456789/28842?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/TrueSport.png",True Sport 2HD
+https://cdn-laos.workpoint.news/hd-tsport2_720/index.m3u8
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/WWE-Network.png",WWE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683002?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/PTVSports.png",PTV Sports
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/905?checkedby:hlscat.com
+
+#EXTINF:0, group-title="Sports" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/GTV.png",GTV
+https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+
+
+
+
+================== GK Channels ================================
+
+
+
+#EXTINF:0, group-title="GK" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/DiscoveryWorld-HD.png",Discovery HD World 
+https://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
+
+#EXTINF:0, group-title="GK" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Discovery-Channel.png",Discovery Channel
+http://a1.gokakka.club:8880/testzyx030/123456789/2514?checkedby:hlscat.com
+
+#EXTINF:0, group-title="GK" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Discovery.png",Discovery History
+http://a1.gokakka.club:8880/testzyx030/123456789/28944?checkedby:hlscat.com
+
+#EXTINF:0, group-title="GK" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/DiscoveryScience.png",Discovery Science
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4887?checkedby:hlscat.com
+
+#EXTINF:-0, group-title="GK" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/NatGeo-HD.png",National Geographic HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+
+#EXTINF:0, group-title="GK" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/NatGeoWild.png",Nat Geo Wild HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
+#EXTINF:-0, group-title="GK" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Animaux.png",Animaux
+http://104.155.151.57:6660/france2019/animaux/chunks.m3u8
+
+#EXTINF:0, group-title="GK" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/LivingFoodz.png",Living Foodz HD
+http://super1.ideaiptv.com:8090/Unplugged/66122/27041
+
+#EXTINF:0, group-title="GK" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/SonyBBC.png",Sony BBC Earth HD
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8
+
+#EXTINF:0, group-title="GK" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/TLC-HD.png",TLC HD
+https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
+ 
+#EXTINF:0, group-title="GK" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/AnimalPlanet-HD.png",Animal Planet Hindi
+https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
+
+#EXTINF:0, group-title="GK" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/AnimalPlanet-HD.png",Animal Planet HD
+http://iptvtree.net:8080/766a3d10/7781c6505e/1130?checkedby:hlscat.com
+
+#EXTINF:0, group-title="GK" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Eden.png",Eden
+http://ultimateiptv.me:8081/live/najat/najat123/11267.m3u8
+
+#EXTINF:0, group-title="GK" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/History-HD.png",History HD
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4880?checkedby:hlscat.com
+
+#EXTINF:0, group-title="GK" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/History2.png",History2 HD
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+
+#EXTINF:0, group-title="GK" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Blaze.png",Blaze HD
+http://194.44.48.82:8021/play/a00y
+
+#EXTINF:0, group-title="GK" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/DMAX.png",DMAX
+http://ultimateiptv.me:8081/live/najat/najat123/11071.m3u8
+
+#EXTINF:0, group-title="GK" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Travel-HD.png",Travel Channel
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6526?checkedby:hlscat.com
+
+#EXTINF:-0, group-title="GK" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/FashionTV-HD.png",Fashion TV HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+
+#EXTINF:-0, group-title="GK" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Epic.png",Epic
+https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
+
+
+
+
+====================== Kids Channels ====================================
+
+
+
+
+#EXTINF:-0, group-title="Kids" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/DisneyChannel.png",Disney Channel
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-0, group-title="Kids" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/DisneyJunior.png",Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+
+#EXTINF:-0, group-title="Kids" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/DisneyXD.png",Disney XD
+http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/3168.m3u8
+
+#EXTINF:-0, group-title="Kids" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Animax.png",Animax
+http://203.154.243.31:8081/live/animax/index.m3u8
+
+#EXTINF:-0, group-title="Kids" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/DisneyInternational-HD.png",Disney International HD
+http://35.188.178.56:2132/kids2019/disneyint/chunks.m3u8
+
+#EXTINF:-0, group-title="Kids" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/CartoonNetwork.png",Cartoon Network
+http://nitro.ltd:25461/live/SPGy9SSX9y/uSnMBNbr66/19654.m3u8
+
+#EXTINF:-0, group-title="Kids" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Discovery-Kids.png",Discovery Kids
+http://201.1.151.74:2083/play/a03c/index.m3u8?checkedby:hlscat.com
+
+#EXTINF:-0, group-title="Kids" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/Universal-Kids.png",Universal Kids
+http://supertv.iptv.rentals:83/live/dircharlie/90393092/308769.m3u8
+
+#EXTINF:-0, group-title="Kids" tvg-logo="http://uneesoft.xyz/MYTV/LOGO/ShemarroKids.png",Shemarro Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
 
 
 
